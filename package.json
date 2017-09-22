@@ -1,0 +1,25 @@
+{
+  "name": "quoine_gcan",
+  "version": "0.0.1",
+  "description": "quoine_gcan",
+  "main": "index.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaowanyao/quoine_gcan.git"
+  },
+  "keywords": [
+    "gcan",
+    "quoine",
+    "api",
+    "quoine_gcan"
+  ],
+  "author": "gcan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaowanyao/quoine_gcan/issues"
+  },
+  "homepage": "https://github.com/gaowanyao/quoine_gcan#readme"
+}
